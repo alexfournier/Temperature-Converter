@@ -1,4 +1,4 @@
-Temperature-Converter-
+Temperature-Converter
 ======================
 
 Author Name : Alex Fournier
